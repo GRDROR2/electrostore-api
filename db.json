@@ -1,0 +1,245 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple MacBook Air M3",
+      "image": "https://picsum.photos/300?1",
+      "price": 1499,
+      "stock": 12,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "image": "https://picsum.photos/300?2",
+      "price": 1899,
+      "stock": 7,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Dell XPS 15 Laptop",
+      "image": "https://picsum.photos/300?3",
+      "price": 2099,
+      "stock": 5,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Apple iPhone 16 Pro",
+      "image": "https://picsum.photos/300?4",
+      "price": 1199,
+      "stock": 20,
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy S25",
+      "image": "https://picsum.photos/300?5",
+      "price": 1099,
+      "stock": 18,
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "Google Pixel 10",
+      "image": "https://picsum.photos/300?6",
+      "price": 899,
+      "stock": 11,
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "Apple Watch Ultra 2",
+      "image": "https://picsum.photos/300?7",
+      "price": 799,
+      "stock": 15,
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "Garmin Fenix 8",
+      "image": "https://picsum.photos/300?8",
+      "price": 749,
+      "stock": 8,
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "name": "Sony PlayStation 5",
+      "image": "https://picsum.photos/300?9",
+      "price": 599,
+      "stock": 9,
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "name": "Xbox Series X",
+      "image": "https://picsum.photos/300?10",
+      "price": 549,
+      "stock": 10,
+      "inStock": true
+    },
+    {
+      "id": 11,
+      "name": "Nintendo Switch OLED",
+      "image": "https://picsum.photos/300?11",
+      "price": 399,
+      "stock": 14,
+      "inStock": true
+    },
+    {
+      "id": 12,
+      "name": "Canon EOS R8 Camera",
+      "image": "https://picsum.photos/300?12",
+      "price": 1599,
+      "stock": 6,
+      "inStock": true
+    },
+    {
+      "id": 13,
+      "name": "Nikon Z6 II Camera",
+      "image": "https://picsum.photos/300?13",
+      "price": 1699,
+      "stock": 5,
+      "inStock": true
+    },
+    {
+      "id": 14,
+      "name": "GoPro HERO 13",
+      "image": "https://picsum.photos/300?14",
+      "price": 449,
+      "stock": 19,
+      "inStock": true
+    },
+    {
+      "id": 15,
+      "name": "Bose QuietComfort Ultra",
+      "image": "https://picsum.photos/300?15",
+      "price": 379,
+      "stock": 17,
+      "inStock": true
+    },
+    {
+      "id": 16,
+      "name": "JBL Flip 7 Speaker",
+      "image": "https://picsum.photos/300?16",
+      "price": 159,
+      "stock": 24,
+      "inStock": true
+    },
+    {
+      "id": 17,
+      "name": "Apple AirPods Pro 2",
+      "image": "https://picsum.photos/300?17",
+      "price": 249,
+      "stock": 22,
+      "inStock": true
+    },
+    {
+      "id": 18,
+      "name": "Samsung Galaxy Buds 3 Pro",
+      "image": "https://picsum.photos/300?18",
+      "price": 219,
+      "stock": 16,
+      "inStock": true
+    },
+    {
+      "id": 19,
+      "name": "Logitech MX Keys Keyboard",
+      "image": "https://picsum.photos/300?19",
+      "price": 129,
+      "stock": 26,
+      "inStock": true
+    },
+    {
+      "id": 20,
+      "name": "Razer DeathAdder V3 Mouse",
+      "image": "https://picsum.photos/300?20",
+      "price": 89,
+      "stock": 30,
+      "inStock": true
+    },
+    {
+      "id": 21,
+      "name": "ASUS WiFi 7 Router",
+      "image": "https://picsum.photos/300?21",
+      "price": 349,
+      "stock": 13,
+      "inStock": true
+    },
+    {
+      "id": 22,
+      "name": "Synology NAS DS923+",
+      "image": "https://picsum.photos/300?22",
+      "price": 699,
+      "stock": 4,
+      "inStock": true
+    },
+    {
+      "id": 23,
+      "name": "WD 2TB Portable SSD",
+      "image": "https://picsum.photos/300?23",
+      "price": 179,
+      "stock": 32,
+      "inStock": true
+    },
+    {
+      "id": 24,
+      "name": "SanDisk 1TB USB Drive",
+      "image": "https://picsum.photos/300?24",
+      "price": 89,
+      "stock": 28,
+      "inStock": true
+    },
+    {
+      "id": 25,
+      "name": "HP LaserJet Pro Printer",
+      "image": "https://picsum.photos/300?25",
+      "price": 329,
+      "stock": 7,
+      "inStock": true
+    },
+    {
+      "id": 26,
+      "name": "Philips Hue Starter Kit",
+      "image": "https://picsum.photos/300?26",
+      "price": 199,
+      "stock": 15,
+      "inStock": true
+    },
+    {
+      "id": 27,
+      "name": "TP-Link Smart Plug",
+      "image": "https://picsum.photos/300?27",
+      "price": 39,
+      "stock": 40,
+      "inStock": true
+    },
+    {
+      "id": 28,
+      "name": "Anker 20000mAh Power Bank",
+      "image": "https://picsum.photos/300?28",
+      "price": 79,
+      "stock": 34,
+      "inStock": true
+    },
+    {
+      "id": 29,
+      "name": "DJI Mini 4 Drone",
+      "image": "https://picsum.photos/300?29",
+      "price": 999,
+      "stock": 6,
+      "inStock": true
+    },
+    {
+      "id": 30,
+      "name": "Epson Home Cinema Projector",
+      "image": "https://picsum.photos/300?30",
+      "price": 1299,
+      "stock": 5,
+      "inStock": true
+    }
+  ]
+}
+
